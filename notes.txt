@@ -1,2 +1,3 @@
 Learning Git step by steep
 Git tracks changes like checkpoints.
+Daily Git practice makes habits strong.
