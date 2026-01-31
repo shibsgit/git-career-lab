@@ -1,1 +1,2 @@
 Learning Git step by steep
+Git tracks changes like checkpoints.
